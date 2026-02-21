@@ -21,7 +21,7 @@ Here, you’ll find:
 ---
 
 ## 📂 Portfolio Projects
-- [Data Engineering Internship Case Study](https://github.com/<nsm03>/data-engineering-wf-internship-case-study) – Production-style internship project with dbt, Airflow DAGs, BigQuery, and Metabase dashboards.  
+- [Data Engineering Internship Case Study](https://github.com/Nsm03/data-engineering-wf-internship-case-study) – Production-style internship project with dbt, Airflow DAGs, BigQuery, and Metabase dashboards.  
 
 ---
 
