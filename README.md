@@ -25,10 +25,8 @@ Here, you’ll find:
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/ntombizanele-moyo-080766245)  
 
----
+
 
 <p align="center">
   <em>This page contains all the key details about myself, my skills, and my portfolio projects.</em>
